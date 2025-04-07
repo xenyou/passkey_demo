@@ -1,0 +1,24 @@
+{
+  "credentials": [
+    {
+      "id": "DCtncovkn1pTIyAbsG8HrgDeMkiLzvYmkyyxBmkZsxfNqFerLUDrzMW6H5s_zV2dcDDG4077JHdXZS2BeT8hIE-Z3mTIhD8W-qs5WJl9QlgLNa1Kq-sepfJBQkTujrED4kPyb1CYvpxb9SBY6BT9L-4_Jlp0B3rwXYCSVUjaoDA",
+      "publicKey": "pAEBAycgBiFYICtHjuirRg7kDeu0GCRfxszqlfcxx4Hh0DfPhHStiT1Z",
+      "counter": 3,
+      "transports": [
+        "nfc",
+        "usb"
+      ],
+      "credentialDeviceType": "singleDevice",
+      "aaguid": "2fc0579f-8113-47ea-b116-bb5a8db9202a",
+      "registered": 1744019624030,
+      "last_used": null,
+      "user_id": "abc"
+    }
+  ],
+  "users": [
+    {
+      "id": "abc",
+      "created": 1744019624030
+    }
+  ]
+}
